@@ -1,0 +1,5 @@
+br\comau\paymentservice\paymentreceiver\PaymentReceiver.class
+br\comau\paymentservice\dto\PaymentResult.class
+br\comau\paymentservice\paymentreceiver\PaymentReceiver$1.class
+br\comau\paymentservice\dto\PaymentInformation.class
+br\comau\paymentservice\PaymentServiceApplication.class
